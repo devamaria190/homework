@@ -1,0 +1,15 @@
+C:\Users\Maxim\Desktop\c# project\bin\Debug\net7.0\c# project.exe
+C:\Users\Maxim\Desktop\c# project\bin\Debug\net7.0\c# project.deps.json
+C:\Users\Maxim\Desktop\c# project\bin\Debug\net7.0\c# project.runtimeconfig.json
+C:\Users\Maxim\Desktop\c# project\bin\Debug\net7.0\c# project.dll
+C:\Users\Maxim\Desktop\c# project\bin\Debug\net7.0\c# project.pdb
+C:\Users\Maxim\Desktop\c# project\obj\Debug\net7.0\c# project.csproj.AssemblyReference.cache
+C:\Users\Maxim\Desktop\c# project\obj\Debug\net7.0\c# project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxim\Desktop\c# project\obj\Debug\net7.0\c# project.AssemblyInfoInputs.cache
+C:\Users\Maxim\Desktop\c# project\obj\Debug\net7.0\c# project.AssemblyInfo.cs
+C:\Users\Maxim\Desktop\c# project\obj\Debug\net7.0\c# project.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\c# project\obj\Debug\net7.0\c# project.dll
+C:\Users\Maxim\Desktop\c# project\obj\Debug\net7.0\refint\c# project.dll
+C:\Users\Maxim\Desktop\c# project\obj\Debug\net7.0\c# project.pdb
+C:\Users\Maxim\Desktop\c# project\obj\Debug\net7.0\c# project.genruntimeconfig.cache
+C:\Users\Maxim\Desktop\c# project\obj\Debug\net7.0\ref\c# project.dll
